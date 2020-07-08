@@ -1,0 +1,6 @@
+{
+  "componentDir": "/src/components",
+  "modelDir": "/src/server/models",
+  "serviceDir": "/src/services",
+  "graphQLDir": "/src/graphql"
+}

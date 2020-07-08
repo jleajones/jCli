@@ -1,0 +1,39 @@
+{
+  "name": "jCli",
+  "version": "1.0.0",
+  "description": "CLI for scaffolding out scalable full stack Javascript application leveraging Docker, Postgres, and GraphQL",
+  "main": "index.js",
+  "bin": "./bin/jcli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "j. lea-jones",
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "react",
+    "nextjs",
+    "graphql",
+    "objectionjs",
+    "express",
+    "apollo",
+    "git",
+    "postgres",
+    "docker",
+    "cli"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0",
+    "esm": "^3.2.25",
+    "execa": "^4.0.2",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.1.0",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}

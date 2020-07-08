@@ -1,0 +1,22 @@
+{
+  "name": "jcli-application",
+  "version": "1.0.0",
+  "description": "this app was bootstrapped with jCli",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.14.3",
+    "express": "^4.17.1",
+    "graphql": "^15.1.0",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {}
+}
